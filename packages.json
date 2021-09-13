@@ -1,0 +1,12 @@
+[
+    {
+        "package": "box",
+        "url": "https://github.com/klmr/box",
+        "branch": "dev"
+    },
+    {
+        "package": "unpack",
+        "url": "https://github.com/klmr/unpack",
+        "branch": "main"
+    }
+]
