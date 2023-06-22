@@ -2,7 +2,7 @@
     {
         "package": "box",
         "url": "https://github.com/klmr/box",
-        "branch": "dev"
+        "branch": "build"
     },
     {
         "package": "unpack",
