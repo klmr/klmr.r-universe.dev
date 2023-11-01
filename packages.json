@@ -8,5 +8,10 @@
         "package": "unpack",
         "url": "https://github.com/klmr/unpack",
         "branch": "main"
+    },
+    {
+        "package": "rprofile",
+        "url": "https://github.com/klmr/rprofile",
+        "branch": "main"
     }
 ]
