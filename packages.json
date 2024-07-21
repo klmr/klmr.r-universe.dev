@@ -13,5 +13,10 @@
         "package": "rprofile",
         "url": "https://github.com/klmr/rprofile",
         "branch": "main"
+    },
+    {
+        "package": "aka",
+        "url": "https://github.com/klmr/aka",
+        "branch": "main"
     }
 ]
